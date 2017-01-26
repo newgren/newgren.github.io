@@ -1,8 +1,8 @@
-
 body {
 	font-family: Lora, Open Sans;
 	position: absolute;
 	top:-51px;
+	font-size: 12pt;
 }
 
 h1,h2,h3 {
@@ -11,7 +11,7 @@ h1,h2,h3 {
 h1 {
 	margin:40px 20px;
 	color: white;
-	font-size: 70px;
+	font-size: 70pt;
 }
 
 h2,h3 {
