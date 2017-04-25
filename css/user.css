@@ -1,7 +1,6 @@
 body {
 	font-family: Lora, Open Sans;
 	position: absolute;
-	top:-51px;
 	font-size: 1.6em;
 }
 
@@ -9,9 +8,11 @@ h1,h2,h3 {
 	font-family: Lora;
 }
 h1 {
-	margin:40px 20px;
 	color: white;
-	font-size: 4em;
+	font-size: 5em;
+	display: inline-block;
+	padding: 5px 0px;
+	background-color:rgba(26,72,150,0.65);
 }
 
 h2,h3 {
@@ -39,14 +40,15 @@ td, th {
 }
 
 .perseverant {
+	padding: 50px;
 	position:relative;
-	top:-210px;
+	background-image: url("../images/back.png");
+	background-color: #1D9AA4;
+	margin-bottom: 30px;
 }
-
 
 .row {
 	position: relative;
-	top:-140px;
 }
 .col-md-6 {
 	padding-left: 20px;
