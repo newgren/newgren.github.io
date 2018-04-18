@@ -2,6 +2,12 @@ body {
 	font-family: Lora, Open Sans;
 	position: absolute;
 	font-size: 1.6em;
+    background-color:black;
+}
+
+.main {
+    color:black;
+    background-color:white;
 }
 
 h1,h2,h3 {
