@@ -1,72 +1,11 @@
 body {
-	font-family: Lora, Open Sans;
-	position: absolute;
-	font-size: 1.6em;
-    background-color:black;
+  margin:0;
 }
 
-.main {
-    color:black;
-    background-color:white;
+div {
 }
 
-h1,h2,h3 {
-	font-family: Lora;
-}
-h1 {
-	color: white;
-	font-size: 5em;
-	display: inline-block;
-	padding: 5px 0px;
-	background-color:rgba(26,72,150,0.65);
-}
-
-h2,h3 {
-	font-weight:700;
-	font-style: ;/*italic;*/
-}
-
-/* table stuff */
-
-td, th {
-	text-align: center;
-	width: 33%;
-}
-
-
-.header {
-	text-align: center;
-}
-
-.footer {
-	width: 100%;
-	background-color: #1D9AA4;
-	color:white;
-	height:100px;
-}
-
-.perseverant {
-	padding: 50px;
-	position:relative;
-	background-image: url("../images/back.png");
-	background-color: #1D9AA4;
-	margin-bottom: 30px;
-}
-
-.row {
-	position: relative;
-}
-.col-md-6 {
-	padding-left: 20px;
-	padding-right: 20px;
-}
-
-.col-md-3 {
-	padding-left: 20px;
-	padding-right: 20px;
-}
-
-.row {
-	width:100%;
-	margin-left: 0px;
+img {
+  float: left;
+  height: 200px;
 }
